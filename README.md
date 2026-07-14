@@ -1,2 +1,1 @@
-# My Project
-Fixed the login button issue.
+Added dark mode option.
