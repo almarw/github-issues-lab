@@ -1,1 +1,1 @@
-Added dark mode option.
+Updated installation instructions in README.
